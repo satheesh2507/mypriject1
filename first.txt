@@ -1,1 +1,2 @@
-s is my first file created for git command.
+this is my first file created for git command.
+There is new lines added.
